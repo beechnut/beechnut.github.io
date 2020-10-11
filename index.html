@@ -2,17 +2,36 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<h1>Matt Cloyd is:</h1>
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+<ul class="is">
+  <li>
+    <span class="main">
+      <a href="/consultant">
+        an organizational consultant
+      </a>
+    </span>
+    <span class="sub">conflict resolution &bull; mediation &bull; facilitation</span>
+  </li>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+  <li>
+    <span class="main">
+      <a href="/developer">
+        a software developer
+      </a>
+    </span>
+    <span class="sub">web &bull; graphs &bull; Ruby</span>
+  </li>
+</ul>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+<p>
+  Matt employs <span class="tooltip">their<span class="tooltiptext">Matt uses they/them or he/him pronouns.</span></span> conflict resolution and technology skills in service of peace, equity, sustainability, and democracy.
+</p>
+
+<!-- <p>
+  Matt is a founder of <a href="https://peerinto.it">The Peer Group</a>, a conflict resolution & management consulting agency.
+</p> -->
+
+<p class="lives-matter">
+  <span class="black">Black lives matter</span>. <span class="trans a">Trans</span> <span class="trans b">lives</span> <span class="trans c">matter</span>.
+</p>

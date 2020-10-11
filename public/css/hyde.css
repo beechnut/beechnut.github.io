@@ -32,17 +32,23 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Playfair Display', serif;
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 18px;
   }
+}
+
+/* About section */
+.content > h1, h2, h3, h4, h5 {
+  font-family: 'Noto Sans JP', serif;
+  font-weight: 400;
 }
 
 
@@ -79,7 +85,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  font-family: 'Playfair Display', serif;
   font-size: 3.25rem;
 }
 
@@ -122,21 +128,21 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
+  padding-top:    2rem;
   padding-bottom: 4rem;
 }
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
-    margin-left: 20rem;
-    margin-right: 2rem;
+    max-width: 40rem;
+    margin-left: 4rem;
+    margin-right: 4rem;
   }
 }
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 22rem;
+    margin-left: 4rem;
     margin-right: 4rem;
   }
 }
