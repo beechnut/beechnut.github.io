@@ -1,0 +1,78 @@
+- name: Aspen
+  tagline: Markup language for creating graph data
+  status: Released
+  color: success
+  link: https://aspen-lang.org
+  looking_for: users (do you need to analyze social networks?), sponsors, and software developers (Ruby or Scala)
+  description: |
+    Aspen is a simple computer language that produces graph data (think network
+    diagrams or social graphs) from simple annotated text. It's designed to be
+    accessible to less-technical users, while being powerful enough for graph
+    database developers. Aspen powers Peer, the in-house social analysis software
+    used by The Peer Group.
+
+- name: The Peer Group
+  tagline: Conflict resolution & organizational development consultants
+  status: In Development
+  color: informational
+  link: https://peerinto.it
+  looking_for: mindful consultants, mediators, and the like seeking contract work
+  description: |
+    The Peer Group is a cooperative of individuals with skills in conflict resolution
+    and management consulting. We work with small companies, startups, and nonprofits
+    at a price point right for those organizations. We help your business or
+    organization work through conflicts and get back to your mission.
+
+- name: Some Good Eggs
+  tagline: Queer-run co-op making urban agriculture & local food more affordable and accessible
+  status: In Development
+  color: informational
+  looking_for: co-owners, specifically queer and/or BIPOC folks interested in urban agriculture
+  description: |
+    The City of Somerville, MA allows urban agriculture like gardening and
+    chicken-keeping, but even people who want to start a garden or keep chickens
+    may not have the time to do the up-front research or be able to cover the startup costs.
+    Some Good Eggs would provide everything from advice, to soil testing, to supplies for
+    raised garden beds, to infrastructure & supplies for chicken-keeping, all using a
+    monthly membership model.
+
+- name: Mediation TV
+  tagline: Like Court TV, but featuring mediation and non-authoritative conflict resolution
+  status: Idea
+  color: inactive
+  looking_for: mediators, filmmakers, social media
+  description: |
+    Unlike a trial or arbitration, mediation doesn't rely on an authority figure—
+    settlement is voluntary and, at its best, collaborative and cooperative. There is
+    a fascinating drama that comes from the mediation process, and popularizing
+    mediation could help people better understand how to resolve their own conflicts,
+    and how to see their own biases. This project aims to popularize mediation on
+    digital media platforms as a way to influence culture toward non-authoritative
+    methods of conflict resolution.
+
+- name: Property Database Analysis
+  tagline: Analyzing public property data for public good
+  status: Idea
+  color: inactive
+  looking_for: software developers (graph databases, web, NLP)
+  description: |
+    Land ownership is a form of power, but the power landscape in a given city
+    is not likely to be understood, despite there being open-access property databases.
+    Using graph databases, this project seeks to analyze and present answers to
+    questions like, "Who owns the most property in the city?", "Who are the
+    individuals behind all the shell companies and LLCs?", and "Are there areas
+    of the city we should be concerned about getting scooped up by a single developer?"
+
+- name: Ohm - River bioremediation
+  tagline: Cleansing polluted riverbeds using robots
+  status: Idea
+  color: inactive
+  looking_for: someone to steal this idea and start working on it
+  description: |
+    Inspired by Hayao Miyazaki's *Nausicaa of the Valley of the Wind*, the
+    Ohm project is a collection of small, semi-autonomous, GPS-guided robots.
+    These robots slowly crawl a riverbed, ingest soil polluted with PCBs and
+    other toxic industrial waste, digest it using microbes and fungi, and,
+    when ready, expel clean soil. The ultimate goal is to make formerly
+    polluted rivers safe to swim in.
+
